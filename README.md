@@ -5,6 +5,7 @@ Original version by @bigjosh http://goo.gl/oyhCoe
 
 Savva's Osipov version for five-meter strape and added effects
 in Arduino/MacroMarquee_Mega_v03
+
 Publications:
 https://www.hackster.io/savva-osipov/huge-led-christmas-lights-5c53b0
 
